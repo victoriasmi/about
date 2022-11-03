@@ -1,6 +1,6 @@
 <h1 align="center">Всем привет! Меня зовут Вика
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Я начинающий front-end разработчик.</h3>
+<h3 align="center">Я начинающий front-end разработчик</h3>
 
 ### Обо мне: 
 
