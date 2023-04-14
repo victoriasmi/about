@@ -2,13 +2,13 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a beginner frontend-developer</h3>
 
-### Обо мне: 
+### About me: 
 
 :books: I'm learning how to build great projects 
 
-:raised_hands: I like to deep dive into products and make user experience better
+:raised_hands: I was a PM, so i like to deep dive into products and make user experience better
 
-:hammer_and_wrench: I can build a website from scratch: from UX / UI design to a working service
+:hammer_and_wrench: I can build a website from scratch: from UX / UI design to a working product
 
 :anatomical_heart: I hope to make a difference and take part in projects beneficial to people's lives
 
