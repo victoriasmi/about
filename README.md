@@ -10,7 +10,7 @@
 
 :hammer_and_wrench: I can build a website from scratch: from UX / UI design to a working service
 
-:anatomical_heart: I hope to make a difference and it's important for me that results of my work are beneficial to people's lives
+:anatomical_heart: I hope to make a difference and take part in projects beneficial to people's lives
 
 ### My tech stack: 
 
@@ -19,3 +19,4 @@
 ### My stats: 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriasmi&layout=compact)](https://github.com/victoriasmi/github-readme-stats)
+(https://www.codewars.com/users/troekurova/badges/large)
