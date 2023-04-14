@@ -21,4 +21,6 @@
 
 ### My stats: 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriasmi&layout=compact)](https://github.com/victoriasmi/github-readme-stats) [![Code Wars](https://www.codewars.com/users/troekurova/badges/small)](https://www.codewars.com/users/troekurova/badges/small)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriasmi&layout=compact)](https://github.com/victoriasmi/github-readme-stats) 
+
+[![Code Wars](https://www.codewars.com/users/troekurova/badges/small)](https://www.codewars.com/users/troekurova/badges/small)
