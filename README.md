@@ -20,4 +20,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoriasmi&layout=compact)](https://github.com/victoriasmi/github-readme-stats)
 
-[![Code Wars](https://www.codewars.com/users/troekurova/badges/micro)](https://www.codewars.com/users/troekurova/badges/micro)
+[![Code Wars](https://www.codewars.com/users/troekurova/badges/micro)]
