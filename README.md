@@ -13,8 +13,10 @@
 :anatomical_heart: I hope to make a difference and take part in projects beneficial to people's lives
 
 ### My Projects to see:
-🎞️ [DocuFilms](https://github.com/victoriasmi/movies-explorer-frontend) - Graduation project and Portfolio. Database of selected documentaries by BeatFilms\
-🗺️ [Mesto](https://github.com/victoriasmi/react-mesto-api-full) - social network for travel ideas and inspiration.\
+:film_projector: [DocuFilms](https://github.com/victoriasmi/movies-explorer-frontend) - Graduation project and Portfolio. Explore selected documentaries by [Beat Film festival](https://en.beatfilmfestival.ru/about/beat-films).
+
+:earth_americas: [Mesto](https://github.com/victoriasmi/react-mesto-api-full) - social network for travel ideas and inspiration.
+
 🚆 [Ru Travel](https://github.com/victoriasmi/russian-travel) - website about traveling through Russia. 
 
 ### My tech stack: 
